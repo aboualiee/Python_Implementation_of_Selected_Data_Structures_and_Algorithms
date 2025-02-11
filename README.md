@@ -31,10 +31,10 @@ gi
 -   **Merge Sort**:
     -   [Sort_Algorithms/Merge_Sort/Merge_Sort.ipynb](Search_Algorithms/Merge_Sort/Merge_Sort.ipynb): Implementation of the merge sort algorithm.
 
-### Recursion
+## Use Cases
 
--   [Recursion/sum.ipynb](Recursion/sum.ipynb): Jupyter Notebook containing a recursive function to calculate the sum of numbers in an array.
-
+-   The `use_cases` folder contains implementations of the algorithms in specific use cases. Check the folder for practical examples.
+-   
 ## Usage
 
 The implementations are provided in Jupyter Notebooks and Python scripts, which can be executed using a Python environment with the necessary libraries installed.
