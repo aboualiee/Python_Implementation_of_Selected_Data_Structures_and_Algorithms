@@ -1,6 +1,7 @@
 # Algorithm and Data Structure Implementations
 
-This repository contains implementations of various algorithms and data structures in Python. The implementations are primarily in Jupyter Notebooks (`.ipynb`).
+This repository contains implementations of various data structures algorithms in Python. The implementations are primarily in Jupyter Notebooks (`.ipynb`).
+
 ## Data Structures
 
 ### Linked Lists
@@ -11,8 +12,6 @@ gi
 ### Stack
 
 -   [Data Structures/Stack/Stack.ipynb](Data Structures/Stack/Stack.ipynb): Jupyter Notebook providing a conceptual overview of the Stack data structure..
-
-## Algorithms
 
 ### Search Algorithms
 
