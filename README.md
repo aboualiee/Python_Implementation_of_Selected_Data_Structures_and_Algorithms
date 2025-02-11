@@ -37,7 +37,5 @@ gi
 -   
 ## Usage
 
-The implementations are provided in Jupyter Notebooks and Python scripts, which can be executed using a Python environment with the necessary libraries installed.
-
-To run the Jupyter Notebooks, you can use JupyterLab or VS Code with the Jupyter extension.
+The implementations are provided in Jupyter Notebooks.To run the Jupyter Notebooks, you can use JupyterLab or VS Code with the Jupyter extension.
 
